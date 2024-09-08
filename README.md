@@ -1,5 +1,3 @@
-#### Passo a passo
-
 Importe o pdf da sua relação carga com o nome **"carga.pdf"** para a pasta /docs
 
 rodar o projeto:
