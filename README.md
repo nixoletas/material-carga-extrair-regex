@@ -2,7 +2,7 @@
 
 Importe o pdf da sua relação carga com o nome **"carga.pdf"** para a pasta /docs
 
-execute o comando:
+rodar o projeto:
 ```commandline
 python3 gerar_csv.py
 ```
